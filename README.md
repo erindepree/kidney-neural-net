@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Classifying Human Kidneys</span>
+  <span class="headline">Classifying Kidneys by Condition</span>
 </h1>
 
 ## Problem Statement
