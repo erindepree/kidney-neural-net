@@ -13,7 +13,7 @@ I am exploring the ['CT Kidney Dataset' from Kaggle](https://www.kaggle.com/data
 
 The images are taken from the front (or back) and crosswise.  
 
-<img src='./data/images_sample/normal/Normal- (140).jpg' width='250'><img src='./data/images_sample/normal/Normal- (1098).jpg' width='250'>
+<img src='./images/Normal- (140).jpg' width='250'><img src='./images/Normal- (1098).jpg' width='250'>
 
 Note the images are of different sizes.  So I padded all the images out to the same size (1250x1250 pixels) while keeping the aspect ratios the same to avoid distorting the images.  
 
