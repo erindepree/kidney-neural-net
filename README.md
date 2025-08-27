@@ -21,10 +21,10 @@ The images are distributed among the classes as
 
 | Class  | integer | Portion of dataset |
 | ------ | :-----: | :----------------: |
-| Cyst   |    0    |      $29.8\%$      |
-| Normal |    1    |      $40.8\%$      |
-| Stone  |    2    |      $11.1\%$      |
-| Tumor  |    3    |      $18.3\%$      |
+| Cyst   |    0    |      29.8%      |
+| Normal |    1    |      40.8%      |
+| Stone  |    2    |      11.1%      |
+| Tumor  |    3    |      18.3%      |
 
 <img src='images/classes.jpg'>
 
