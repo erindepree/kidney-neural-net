@@ -5,7 +5,7 @@
 
 Erin De Pree, PhD | [website](https://erindepree.github.io/github.io/)
 
-![https://badgen.net/static/license/MIT/blue](https://badgen.net/static/license/MIT/blue)
+[![https://badgen.net/static/license/MIT/blue](https://badgen.net/static/license/MIT/blue)](https://github.com/erindepree/kidney-neural-net/blob/main/LICENSE)
 ![GitHub repo size](https://img.shields.io/github/repo-size/erindepree/kidney-neural-net)
 
 
