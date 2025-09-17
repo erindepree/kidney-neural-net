@@ -6,6 +6,8 @@
 Erin De Pree, PhD | [website](https://erindepree.github.io/github.io/)
 
 ![https://badgen.net/static/license/MIT/blue](https://badgen.net/static/license/MIT/blue)
+![GitHub repo size](https://img.shields.io/github/repo-size/erindepree/kidney-neural-net)
+
 
 ## Problem Statement
 For this project, my goal is to create a neural network that can correctly identify the kidney condition over 99% of the time.  This would allow the medical imaging department to process more images in a shorter amount of time.  
